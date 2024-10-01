@@ -39,7 +39,7 @@ Plug 'https://github.com/numtostr/Comment.nvim' " Smart and powerful comment plu
 Plug 'https://github.com/tpope/vim-abolish' " Easily search for, substitute, and abbreviate multiple variants of a word.
 Plug 'https://github.com/bfredl/nvim-miniyank' " Killring-alike plugin for neovim and vim 8 with no default mappings.
 Plug 'https://github.com/sophacles/vim-processing' " For processing.org
-Plug 'https://github.com/alvan/vim-closetag' " Auto close (X)HTML tags.
+Plug 'https://github.com/windwp/nvim-ts-autotag' " Use treesitter to auto close and auto rename html tag
 Plug 'https://github.com/dylanaraps/wal.vim' " Generate and change colorschemes on the fly.
 Plug 'https://github.com/dkprice/vim-easygrep' " Fast and Easy Find and Replace Across Multiple Files.
 Plug 'https://github.com/lambdalisue/suda.vim' " An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows.
