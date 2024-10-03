@@ -7,4 +7,4 @@ map <leader>P <Plug>(miniyank-startPut)
 map <Leader>yc <Plug>(miniyank-tochar)
 map <Leader>yl <Plug>(miniyank-toline)
 map <Leader>yb <Plug>(miniyank-toblock)
-let g:miniyank_filename = stdpath("cache") .. "/.miniyank.mpack"
+let g:miniyank_filename = stdpath("cache")."/.miniyank.mpack"
