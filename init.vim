@@ -7,7 +7,7 @@ endfor
 source <sfile>:p:h/plugins.vim
 
 " Regular settings.
-source /home/farzat/.config/nvim/regular.vim
+source <sfile>:p:h/regular.vim
 
 " Global mappings.
 source <sfile>:p:h/global-mappings.vim
