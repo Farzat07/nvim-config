@@ -58,7 +58,7 @@ Plug 'https://github.com/rafamadriz/friendly-snippets' " Set of preconfigured sn
 
 " Plugins not for vscode.
 if !exists('g:vscode')
-    Plug 'https://github.com/scrooloose/nerdtree' " A tree explorer plugin for vim.
+    Plug 'https://github.com/nvim-tree/nvim-tree.lua' " A file explorer tree for neovim written in lua
 endif
 
 " Only if started by a browser.
