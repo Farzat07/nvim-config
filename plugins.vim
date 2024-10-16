@@ -59,6 +59,8 @@ Plug 'https://github.com/rafamadriz/friendly-snippets' " Set of preconfigured sn
 " Plugins not for vscode.
 if !exists('g:vscode')
     Plug 'https://github.com/nvim-tree/nvim-tree.lua' " A file explorer tree for neovim written in lua
+    Plug 'https://github.com/nvim-tree/nvim-web-devicons' " Adds file type icons to Vim plugins
+    Plug 'https://github.com/prichrd/netrw.nvim' " It's not because we use netrw that we cannot have nice things!
 endif
 
 " Only if started by a browser.
