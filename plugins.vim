@@ -44,7 +44,6 @@ Plug 'https://github.com/dylanaraps/wal.vim' " Generate and change colorschemes 
 Plug 'https://github.com/dkprice/vim-easygrep' " Fast and Easy Find and Replace Across Multiple Files.
 Plug 'https://github.com/lambdalisue/suda.vim' " An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows.
 Plug 'https://github.com/ntpeters/vim-better-whitespace' " Better whitespace highlighting for Vim.
-Plug 'https://github.com/mattn/emmet-vim' " emmet for vim: http://emmet.io/.
 Plug 'https://github.com/neovim/nvim-lspconfig' " Quickstart configs for Nvim LSP
 Plug 'https://github.com/hrsh7th/cmp-nvim-lsp' " nvim-cmp source for neovim builtin LSP client
 Plug 'https://github.com/hrsh7th/cmp-buffer' " nvim-cmp source for buffer words.

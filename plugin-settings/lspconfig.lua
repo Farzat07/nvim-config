@@ -42,6 +42,8 @@ local capabilities = require("cmp_nvim_lsp").default_capabilities()
 local simple_servers = {
   "bashls",
   "clangd",
+  "cssls",
+  "emmet_language_server",
   "jedi_language_server",
   "jsonls",
   "remark_ls",
