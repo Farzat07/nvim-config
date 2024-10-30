@@ -1,6 +1,6 @@
 ; extends
 [
  ;; Use :InspectTree to find the relevant nodes.
-  (block)+
+  (block)
   (keyframe_block_list)+
 ] @fold
