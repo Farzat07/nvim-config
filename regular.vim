@@ -9,7 +9,7 @@ set number
 set relativenumber
 
 " Use the wal colorscheme from the plugin if available.
-colorscheme wal
+colorscheme industry
 
 " Add a red column after textwidth limit.
 set colorcolumn=+1
@@ -37,10 +37,6 @@ set noarabicshape
 " But set iminsert=0 to have English mapping at first. Switch using i_CTRL-^.
 set keymap=arabic
 set iminsert=0
-
-" Folding based on treesitter
-set foldmethod=expr
-set foldexpr=nvim_treesitter#foldexpr()
 
 " Disable mouse.
 set mouse=
